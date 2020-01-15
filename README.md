@@ -18,3 +18,7 @@ This research aimed at the case of customersâ€™ default payments in Taiwan 
 To run the project make sure all the necessary files are in the same directory.
 Then run the python file called Import_model which will give a local URL
 address to run in your browser for the website.
+
+**View our Presentation**
+
+https://github.com/willmw97/CreditCardDefault/blob/master/DecisionTreeCreditCard.pdf
